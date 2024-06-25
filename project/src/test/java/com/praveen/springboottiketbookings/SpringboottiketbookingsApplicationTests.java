@@ -1,4 +1,4 @@
-package com.praveen.springboottiketbookings;
+package com..springboottiketbookings;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
